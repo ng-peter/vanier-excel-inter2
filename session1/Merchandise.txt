@@ -1,0 +1,29 @@
+Item	Photo	Category	Size Options	Color Options	Price
+Big Cities of California	dvd_city.jpg	DVDs	n/a	n/a	$19.99
+Beaches of California	dvd_coast.jpg	DVDs	n/a	n/a	$19.99
+Deserts of California	dvd_coast.jpg	DVDs	n/a	n/a	$19.99
+Landscapes of California	dvd_mountains.jpg	DVDs	n/a	n/a	$19.99
+plate and bowl set	plate_set.jpg	Dishware	n/a	n/a	$14.99
+bowl	bowl.jpg	Dishware	n/a	n/a	$7.99
+glass tumbler	glass.jpg	Dishware	n/a	n/a	$10.99
+travel mug	travel_mug.jpg	Dishware	n/a	n/a	$12.50
+water bottle	water_bottle.jpg	Dishware	n/a	n/a	$9.50
+baseball cap	hat_blk.jpg	Apparel	n/a	black	$12.99
+baseball cap	hat_tan.jpg	Apparel	n/a	tan	$12.99
+fleece vest	fleece_black.jpg	Apparel	XS	black	$30.00
+fleece vest	fleece_black.jpg	Apparel	S-M-L	black	$34.00
+fleece vest	fleece_black.jpg	Apparel	XL-XXL	black	$36.00
+fleece vest	fleece_green.jpg	Apparel	XS	forest green	$30.00
+fleece vest	fleece_green.jpg	Apparel	S-M-L	forest green	$34.00
+fleece vest	fleece_green.jpg	Apparel	XL-XXL	forest green	$36.00
+fleece vest	fleece_blue.jpg	Apparel	XS	blue	$30.00
+fleece vest	fleece_blue.jpg	Apparel	S-M-L	blue	$34.00
+fleece vest	fleece_blue.jpg	Apparel	XL-XXL	blue	$36.00
+hoodie	hoodie.jpg	Apparel	XS-S-M	brown	$43.00
+hoodie	hoodie.jpg	Apparel	L-XL-XXL	brown	$48.00
+hoodie	hoodie.jpg	Apparel	XS-S-M	blue	$43.00
+hoodie	hoodie.jpg	Apparel	L-XL-XXL	blue	$48.00
+tshirt	tshirt.jpg	Apparel	XS-S-M-L-XL-XXL	white	$12.99
+bumper sticker	bumper_sticker.jpg	Decals	n/a	n/a	$0.50
+window decal	window_decal.jpg	Decals	n/a	n/a	$1.00
+sticker sheet	sticker_sheet.jpg	Decals	n/a	n/a	$2.50
