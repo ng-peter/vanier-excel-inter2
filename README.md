@@ -1,4 +1,5 @@
-# Vanier Continuing Education - Microsoft Excel Intermediate II
+# Vanier Continuing Education
+# Microsoft Excel Intermediate II
 
 ## Session 1
 
